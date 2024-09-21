@@ -1,2 +1,3 @@
 # Radio-SBGR
-Meu projeto pessoal de Tracker e Rádio
+Meu projeto pessoal somente para aprendizado de Tracker e Rádio, utilizando Leaflet, OpenSky e Radarbox;
+Este projeto é sem fins lucrativos, dedicado somente ao meu aprendizado.
